@@ -4,6 +4,8 @@ This repository contains SQL queries and data analysis scripts for exploring and
 
 ## Data Sources
 
+[Our World in Data - Coronavirus (COVID-19) Deaths](https://ourworldindata.org/covid-deaths)
+
 The project utilizes two main tables from the `PortifolioProject` database:
 
 1. **CovidDeaths**
